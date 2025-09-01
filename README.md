@@ -27,7 +27,7 @@ Each file starts with a block of metadata to connect related content:
 
 [💻 Computing & IT](https://github.com/NikiDigitals/Computing-IT)  
 [⭕ IT Governance, Risk and Compliance](https://github.com/NikiDigitals/GRC)  
-[🌐 Enterprise Sysytems](https://github.com/NikiDigitals/systems)    
+[🌐 Enterprise Systems](https://github.com/NikiDigitals/systems)    
 [📊 Finance and Accounting](https://github.com/NikiDigitals/Finance-and-accounting)   
 [📑 Others](https://github.com/NikiDigitals/others)  
 <br>
