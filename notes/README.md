@@ -3,10 +3,10 @@ This folder contains my study notes, questions, concepts, definitions, and examp
 The goal is to create a structured, searchable knowledge hub to revise effectively and connect topics across the different sources.
 
 ## 📂 folder structure
-`Notes/` - contains all topic files, organised by issuer and course.
+`Notes/` - contains all  files, organised by topic
 - Example:
-- `ACCA-BT-organisations.md`
-- `OU-B100-organisations.md`
+- `organisations.md`
+- `Matketing.md`
 
 ## 📝 File Structure
 Each file contains metadata for easy searching:   
