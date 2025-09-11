@@ -1,15 +1,10 @@
-- Topic: The organisation  
-  Related courses: Business and Technology, B100 Introduction to Management & Business  
-  Issuers: ACCA, The Open University  
-  Lesson:
-  File created on: 2025 - 09-04  
-  Last modified: 2025-09-08  
-  Type: notes  
-  Tags:  
-  Related projects:  
-  Related journals:
-
----
+> **Topic** The organisation and stakeholders  
+>  **Related courses** Business and Technology, ACCA - B100 Introduction to Management & Business, Open University  
+> **Main sources** woolf (2023, primary)  
+>  **Type** Combined Study notes  
+>  **Tags**  
+>  **Related projects**  
+>  **Related journals**
 
 ## Exam style questions on the topic:
 
@@ -17,17 +12,23 @@
 - Describe the different types of business organisations
 - Discuss the characteristics of different types of organisations
 - Discuss characteristics of different legal forms of businesses
+- Identify three internal and three external stakeholders of a company that produces e-bikes.
+- A company wants to reduce costs by outsourcing production overseas. Could you identify two potential conflicts between stakeholders?
+- Explain Mendelows matrix, and how the company should respond to the different outcomes.
 
 ## Table of Contents
 
-0. [Exam-Style Questions on the topic](#exam-style-questions-on-the-topic)
-   1.0 [Types of Organisations](#types-of-organisations)
-   1.1 [Characteristics of Different Types of Organisations](#characteristics-of-different-types-of-organisations)
-   1.2 [Characteristics of Different Legal Forms of Businesses](#characteristics-of-different-legal-forms-of-businesses)
-   1.3 [Dutch Legal Forms of Businesses (Comparison)](#dutch-legal-forms-of-businesses-comparison)
-   2.0 [stakeholders](#stakeholders)
-   2.1 [Internal Stakeholders](#internal-stakeholders)
-   2.2 [Eternal stakeholders](#external-stakeholders)
+0. [Exam-Style Questions on the topic](#exam-style-questions-on-the-topic
+   1.0 [Types of Organisations](#types-of-organisations)  
+   1.1 [Characteristics of Different Types of Organisations](#characteristics-of-different-types-of-organisations)  
+   1.2 [Characteristics of Different Legal Forms of Businesses](#characteristics-of-different-legal-forms-of-businesses)  
+   1.3 [Dutch Legal Forms of Businesses (Comparison)](#dutch-legal-forms-of-businesses-comparison)  
+   2.0 [stakeholders](#stakeholders)  
+   2.1 [Internal Stakeholders](#internal-stakeholders)  
+   2.2 [Eternal stakeholders](#external-stakeholders)  
+   2.3 [main stakeholder](#main-stakeholders)  
+   2.4 [Connected stakeholders](#connected-stakeholders)  
+   2.5 [stakeholders conflict of interest](#stakeholder-mapping-mendelows-powerinterest-matrix)
 
 **Appendices**  
 A. [Reference List](#reference-list)  
@@ -87,7 +88,7 @@ B. [Related Topics](#links-to-related-topics)
 
 ## Characteristics of different legal forms of businesses
 
-## Definitions
+### Definitions
 
 - **Sole Trader** → A business owned and run by a single person.
 - **Partnership** → A business owned by two or more people.
@@ -96,9 +97,9 @@ B. [Related Topics](#links-to-related-topics)
 - **Floating Charge** → A type of security a company can give to a lender over its assets, where the assets can be used or sold in the normal course of business until the lender enforces the charge.
 - **Separation of ownership and control** → In large companies, shareholders and managers (executive directors) are different people.
 
-## Key Concepts
+### Key Concepts
 
-### Sole Trader
+#### Sole Trader
 
 - Single owner enjoys all profits and is fully liable for debts.
 - Funded by capital, loans, or short-term credit.
@@ -107,7 +108,7 @@ B. [Related Topics](#links-to-related-topics)
 - Business ceases if the owner dies; it can be sold.
 - Cannot grant floating charges to secure loans (Emile Woolf International Limited, 2025, p. 6).
 
-### Partnership
+#### Partnership
 
 - Owned by two or more people.
 - Partners pay themselves by drawing from the business.
@@ -116,14 +117,14 @@ B. [Related Topics](#links-to-related-topics)
 - **Limited Partnership** → One or more partners have limited liability; limited partners do not manage the business and cannot withdraw capital. Regulated under the [Limited Partnership Act 1907](https://www.legislation.gov.uk/ukpga/1907/24/contents).
 - **Limited Liability Partnership (LLP)** → Separate legal identity from owners. Regulated under the [Limited Liability Partnership Act 2000](https://www.legislation.gov.uk/ukpga/2000/12/contents).
 
-### Company
+#### Company
 
 - Shareholders own the company via shares; liability is limited to invested capital.
 - The company itself is a legal person and can own assets, sue, or be sued.
-- Taxes are separate from personal taxes of shareholders.
+- Taxes are separate from the personal taxes of shareholders.
 - In large companies, shareholders are not the managers → stakeholders need financial reporting.
 
-### Public Limited Company
+#### Public Limited Company
 
 - Can sell shares to the public.
 - Subject to stricter regulations than private companies.
@@ -157,45 +158,45 @@ B. [Related Topics](#links-to-related-topics)
 
 ### Definitions
 
-**A stakeholdder** → is a person or organisation with interest or stakes in the organisation.
+**A stakeholder** → is a person or organisation with an interest or stake in the organisation.
 **internal stakeholders** → People or groups within the organisation.
-**External stakeholders** → people, groups or entities external of the organisation itself
+**External stakeholders** → people, groups or entities external to the organisation itself
 **Agent** → Person employed to do any (lawful) act for another or to represent another in dealing with a third person.
 **principal** → The person who is represented or for whom the action is carried out.
-**Bond / debentures** A fixed income security issued by a company or government to raise capital. A loan from an invester that needs to be paid bck with interest over a defined period of time.
+**Bond/debentures** A fixed-income security issued by a company or government to raise capital. A loan from an investor that needs to be paid back with interest over a defined period of time.
 
 ### Key Concepts
 
-A stakeholder has interest in what the organisation does and will try to influence the decisions and actions.
+A stakeholder has an interest in what the organisation does and will try to influence the decisions and actions.
 
 ### Internal Stakeholders
 
 **Shareholders/owners**
 
-- in a large company the main shareholders are not involved in day-to-day management (there are exceptions)
-- They are investors looking for a return on their invetsments. Usually in a higher value of shares or in dividents.
-- The management of these larger companies is done by a board of directors and executive management team.
+- In a large company, the main shareholders are not involved in day-to-day management (there are exceptions)
+- They are investors looking for a return on their investments. Usually, in a higher value of shares or in dividends.
+- The management of these larger companies is done by a board of directors and an executive management team.
 - When a stakeholder feels their interests are threatened, they will try to influence the decisions of the directors.
   - They may express concerns about:
     - falling profit
-    - lower divident pays
-    - a proposol to invest in a high risk project
-    - a proposed take-over bit
-  - Mayor shareholders can discuss concers with the chair and senior directors.
+    - lower dividend pays
+    - a proposal to invest in a high-risk project
+    - a proposed takeover bit
+  - Mayor shareholders can discuss concerns with the chair and senior directors.
   - Shareholders can vote against a director during a general meeting. (restricted by company law)
-- A majority shareholder ownes enough shares to control the composition of the board and the decisions the company's directors make.
+- A majority shareholder owns enough shares to control the composition of the board and the decisions the company's directors make.
 
 **Executive directors /managers**
 
-- board of directors can exist out of executive(full-time employees) and non-executive members.
-- executive directors are managing the company, their interests are similar to senior executives whom are not part of the board of directors.
+- The board of directors can consist of executive(full-time employees) and non-executive members.
+- Executive directors are managing the company; their interests are similar to those of senior executives who are not part of the board of directors.
 - their interests are affected by:
   - job security
   - career opportunities
-  - salary and extra benefits (pension, bonus,shares)
+  - salary and extra benefits (pension, bonus, shares)
   - status
-- executive directors want to see the company grow; it has a positive impact on career opportunituies, salary and status.
-- Shareholders are more interested in profutability, dividents and the value of shares
+- Executive directors want to see the company grow; it has a positive impact on career opportunities, salary and status.
+- Shareholders are more interested in profitability, dividends and the value of shares
 
 **Other managers and employees**
 
@@ -208,33 +209,33 @@ A stakeholder has interest in what the organisation does and will try to influen
 
 **Agent - principal**
 
-- in a large company an agent realtionship exist between owners (shareholders) and the directors.
-- The directors are appointed ny shareholders and recuired to act in their best interests.
-- The owners acts as 'the principles' and the director as the 'agents'
+- In a large company, an agent relationship exists between owners (shareholders) and the directors.
+- The directors are appointed by shareholders and required to act in their best interests.
+- The owners act as 'the principals' and the director as the 'agents'
 
-## External Stakeholders
+### External Stakeholders
 
-- A business organisation has often many different extrnal stakeholders
+- A business organisation often has many different external stakeholders
 
 **Lender**
 
-- A main concer from a lender is if the borrowor is able to pay back debts, with interest and on time.
-- A lender may get concerned when the company has major loans, When a borrower gets major debts, the risk increases that it cannot meet all the claims for interest and repayments.
+- A main concern from a lender is if the borrower can pay back debts, with interest and on time.
+- A lender may get concerned when the company has major loans. When a borrower gets major debts, the risk increases that it cannot meet all the claims for interest and repayments.
 
 **Suppliers**
 
-- A supplier can give the businnes the option to buy on credit.
-- their main interestn are:
+- A supplier can give the business the option to buy on credit.
+- their main interests are:
 - Customer pays what is owed and will pay on time.
 - Customer will continue to buy products
-  `- Custumer wil follow oood ethics and treat them fairly
+- Customer will follow good ethics and treat them fairly
 
 - **Government**
-- The goverment has interest in all organisatons, especially the larger once.
-  - A business pays taxes over profit, this makes the government have an interest in profitability
-  - To keeep a stong economy in a country the goverment may encourage businesses to make investments.
-  - The governmet want to keep unemployment rares low
-  - The government is responsible for regulations and restrictions. A business needs to follow these and the laws.
+- The government has an interest in all organisations, especially the larger ones.
+  - A business pays taxes on profit; this makes the government have an interest in profitability
+  - To keep a strong economy in a country, the government may encourage businesses to make investments.
+  - The government wants to keep unemployment rates low
+  - The government is responsible for regulations and restrictions. A business must comply with these laws.
 
 **Customers**
 
@@ -242,29 +243,89 @@ A stakeholder has interest in what the organisation does and will try to influen
 
 **Local communities**
 
-- When a large company creates many jobs in a specific area the local communitie has interest in the company.
-- They concers may be:
-- The comapny closing down operations or downscaling which would effect local jobs and local economy.
+- When a large company creates many jobs in a specific area, the local community has an interest in the company.
+- The concerns may be:
+- The company is closing down operations or downscaling, which would affect local jobs and the local economy.
 
 **The general public**
-The actions of a company can effect major gorups of people,.
-Areas of opublic concers could be:
+The actions of a company can affect major groups of people.
+Areas of public concern could be:
 
-- Enviormetal - polussing, amd creating sustainabble business
-- public health - Manifacturing of food and medicines
-- monipolisation - Where large companies take over the market leavinf no space for small retailers or fair market.
-- corruption - Fraud by companies - bribery between companies but also driving up prices for own profit.
+- Environmental - pollution, and creating sustainable business
+- public health - Manufacturing of food and medicines
+- Monopolisation - Where large companies take over the market, leaving no space for small retailers or a fair market.
+- corruption - Fraud by companies - bribery between companies, but also driving up prices for their own profit.
 
 **Non-executive directors**
 
-- Members of the board of directors that are not full-time employees of the company.
+- Members of the board of directors who are not full-time employees of the company.
   - They bring expertise in the company which the executive directors don't have.
-  - They are not effected by job, security, bonuses, status of power in the company.
-- It is good corporate governance to apppoint external non-executive boardmembers.
+  - Job, security, bonuses, and status of power in the company do not affect them.
+- It is good corporate governance to appoint external non-executive board members.
 
-  - Individual external board members can help prefend a company of being onesided or dominated by personal interests.
+  - Individual external board members can help prevent a company from being one-sided or dominated by personal interests.
 
-  ## Main stakeholders
+  ### Main stakeholders
+
+- A main stakeholder can exercise the most significant influence.
+- In a company, these are the board of directors and senior executives.
+  - the directors will often be influenced by the opinion of shareholders
+  - shareholders, especially the bigger ones, can take actions against the directors if they are unsatisfied.
+
+### Connected stakeholders
+
+- other groups might influence the decisions that directors and senior management make.
+- A connected stakeholder:
+  - Is not part of the decicion making
+  - is not part of the permanent infrastructure of the organisation
+  - is nevertheless very influential in shaping the future of organisations and the decisions of their leaders.
+- They are:
+  - non-executive directors
+  - employees
+  - key suppliers
+  - key customers
+
+### sources of internal power
+
+- position
+- personal charisma
+
+### Sources of external power
+
+- legal rights\*\*
+- -publicity
+- Control over resources
+- Buying power
+- Claim on resources
+
+## Stakeholder mapping: Mendelow's power/interest matrix
+
+- It is important to manage the stakeholders.
+- Stakeholder mapping is a technique that can help senior managers to assess their main stakeholders and consider how to approach them.
+- One approach is to evaluate a stakeholder on power and interest in a 2 X 2 matrix.
+- the matrix compares:
+- amount of interest the stakeholder has in a particular issue, on a scale ranging from not interested (0) to very interested (+10)
+- the relative power of the stakeholder on a scale of very weak (0) to very powerful (+10)
+- The key stakeholders are those with considerable power of influence and a high level of interest in the matter or decision that is considered.
+
+ <img src="https://i.imgur.com/Hm9TOrf.png" alt="mendelow's matrix" weight="50%">
+
+- **little power + little interest** minimal effort needed to keep the stakeholder informed on the matter
+- **little power + strong interest** keep them informed and explain why. A stakeholder should be up to date, even if they oppose what the organisation is doing.
+- **high power + little interest** keep the stakeholder satisfied. Try to prevent situations where the stakeholder has a greater interest and will exercise their power.
+- **high power + high interest** key players in the matter. It is essential to obtain and keep their support.
+
+## stakeholders conflict of interest
+
+Example:
+The board of a company may set as an objective a 20% growth in annual profits.  
+To do this, it may have to take the following measures:
+
+- Reduce staffing levels and fire employees
+- Switch to different suppliers of key materials that can be produced cheaply because they are in a country with cheap labour
+- increase output that will increase levels of pollution. (Emile Woolf International Limited, 2025, p. 17)  
+  Of course, a company should try to avoid major conflicts between stakeholder groups.  
+  One approach is to apply principles of good corporate governance and to recognise the corporate social responsibility of companies.
 
 ## Reference list:
 
